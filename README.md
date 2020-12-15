@@ -1,6 +1,5 @@
 ### Hi there 👋 
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jboy457)
+<img src="https://raw.githubusercontent.com/jboy457/jboy457/6dcbfecfc590b1b95c70bab9de6d773aa7cd5707/Screenshot%202020-12-10%20at%2019.20.29.png" width=300 alt="My Profile Header Image" /> [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jboy457)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adejare-taiwo-360956197/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adejareeemma@gmail.com)
 
@@ -37,6 +36,8 @@ I'm Taiwo, a Mathematics and Computer Science Student who's a Backend Software D
   
 - API Documentation
   - Postman
-
+  
+- Other
+  - Figma 
 
 ![my github stats - dark](https://github-readme-stats.vercel.app/api?username=jboy457&show_icons=true&count_private=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jboy457&layout=compact&count_private=true)
