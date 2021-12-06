@@ -6,7 +6,7 @@
 <br>
 
 ### 😎 About Me
-I'm Taiwo, a Mathematics and Computer Science Student who's a Backend Software Developer and Upcoming Mobile developer. Through self-study and enrolling in a coding Bootcamp at Swap space systems and Udemy, I am building a solid foundation in both backend and mobile technologies and languages. I am a young developer whos always ready to learn and build more for the future.
+I'm Taiwo, a Mathematics and Computer Science Student who's a Software Developer. Through self-study and enrolling in a coding Bootcamp at Swap space systems and Udemy, I am building a solid foundation in both backend and mobile technologies and languages. I am a young developer whos always ready to learn and build more for the future.
 
 ### ⚡ Relevant achievements
 - Graduated as one of HNGi7 Finalist(An online Software internship organised and managed by Mark Essien)
