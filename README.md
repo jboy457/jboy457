@@ -14,6 +14,7 @@ I'm Taiwo, a Software Developer. Through self-study and enrolling in a coding Bo
 
 ### ✔️ I'm currently learning
 - Amazon Web Service (AWS)
+- Native IOS Development (Swift)
 
 ### 💡 Skill
 - Frontend Development 
