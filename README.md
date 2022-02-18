@@ -36,6 +36,7 @@ I'm Taiwo, a Software Developer. Through self-study and enrolling in a coding Bo
   
 - API Documentation
   - Postman
+  - Swagger
   
 - Other
   - Figma 
