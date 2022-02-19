@@ -24,7 +24,7 @@ I'm Taiwo, a Software Developer. Through self-study and enrolling in a coding Bo
   - EJs(Nodejs) and Blade(Laravel) Templating
 
 - Backend Development 
-  - Nodejs(Express and Xpresser Frameworks)
+  - Nodejs(Express and NestJs)
   - PHP(Laravel)
   
 - Mobile Development
