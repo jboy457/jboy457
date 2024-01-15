@@ -1,7 +1,7 @@
 ### Hi there 👋 
 <img src="https://raw.githubusercontent.com/jboy457/jboy457/6dcbfecfc590b1b95c70bab9de6d773aa7cd5707/Screenshot%202020-12-10%20at%2019.20.29.png" width=300 alt="My Profile Header Image" /> [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jboy457)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adejare-taiwo-360956197/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adejareeemma@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adejareemma@gmail.com)
 
 <br>
 
