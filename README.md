@@ -41,4 +41,3 @@ I'm Taiwo, a Software Developer. Through self-study and enrolling in a coding Bo
 - Other
   - Figma 
 
-![my github stats - dark](https://github-readme-stats.vercel.app/api?username=jboy457&show_icons=true&count_private=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jboy457&layout=compact&count_private=true)
